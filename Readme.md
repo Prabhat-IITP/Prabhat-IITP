@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Blockchain Based Personalised Federated Learning**
 
-- 💬 Ask me about **Linux, Federated Learning, Node.js, MySQL**
+- 💬 Ask me about **Linux, Daata Structures, ReactJS, Node.js, MySQL**
 
 - 📫 Reach me at : **kumar.prabhatmalviya.81@gmail.com**
 
